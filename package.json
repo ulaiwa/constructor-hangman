@@ -1,0 +1,23 @@
+{
+  "name": "hangmaninit",
+  "version": "0.0.1",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulaiwa/constructor-hangman.git"
+  },
+  "author": "meowhead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulaiwa/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/ulaiwa/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "is-letter": "^1.1.1"
+  }
+}
